@@ -72,3 +72,7 @@ Upload the predictions .csv file under 'Upload File'
 Click on 'Submit & Evaluate' to assess your model's performance
 
 Upload the .ipynb file or notebook file along with the presentation file under 'Upload Source code'
+
+
+![alt text](arch.jpeg "Title")
+
